@@ -1,4 +1,4 @@
-# 𝐏𝐢𝐤𝐚𝐜𝐡𝐮 🇮🇳
+# 𝙏𝘼𝙇𝙀𝙉𝙏𝙀𝘿 🇮🇳
 <p align="center">
     <a href="https://github.com/fran_x_queen/talented bot/stargazers"><img src="https://img.shields.io/github/stars/fran_x_queen/talented bot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
     <a href="https://github.com/fran_x_queen/talented bot/network/members"><img src="https://img.shields.io/github/forks/fran_x_queen/talented bot?label=Fork&style=flat-square&logo=github&color=F10070" alt="Fork" /></a>
@@ -8,7 +8,7 @@
 <p align="center">
 
 <img src = https://i.pinimg.com/originals/25/d2/54/25d254df236c61306bceb86df5f671f1.gif width = 80 align = "left">
-𝐏𝐢𝐤𝐚𝐜𝐡𝐮 𝐨𝐧 𝐟𝐢𝐫𝐞 🔥
+𝙏𝘼𝙇𝙀𝙉𝙏𝙀𝘿 𝙊𝙉 𝙁𝙄𝙍𝙀 🔥
 
 # Credits
 <b>Khud Ke Code se banaya Hu Bsdk // NO Credits</b>
